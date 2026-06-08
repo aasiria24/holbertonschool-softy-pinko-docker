@@ -27,3 +27,7 @@ docker-compose up --scale back-end=2
 ```
 
 Then open: `http://localhost:80`
+
+## Author
+
+Amaal Asiri, Holberton School Student.
